@@ -1,0 +1,98 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Amazon"
+    },
+    {
+      "name": "masai",
+      "id": 2
+    },
+    {
+      "name": "facebook",
+      "id": 3
+    },
+    {
+      "name": "google",
+      "id": 4
+    },
+    {
+      "name": "microsoft",
+      "id": 5
+    }
+  ],
+  "employee": [
+    {
+      "name": "rohit tamamang",
+      "company": "masia",
+      "ctc": "5",
+      "salary": "40000",
+      "email": "xyz.gmail.com",
+      "phone": "8979067860",
+      "id": 1
+    },
+    {
+      "name": "rohit tamamang",
+      "company": "masia",
+      "ctc": "6",
+      "salary": "40000",
+      "email": "xyz.gmail.com",
+      "phone": "8979067860",
+      "id": 2
+    },
+    {
+      "name": "asdf tamamang",
+      "company": "masia",
+      "ctc": "7",
+      "salary": "40000",
+      "email": "xyz.gmail.com",
+      "phone": "8979067860",
+      "id": 3
+    },
+    {
+      "name": "asdff tamamang",
+      "company": "masia",
+      "ctc": "4",
+      "salary": "40000",
+      "email": "xyz.gmail.com",
+      "phone": "8979067860",
+      "id": 4
+    },
+    {
+      "name": "asdff t\\",
+      "company": "masia",
+      "ctc": "5",
+      "salary": "40000",
+      "email": "xyz.gmail.com",
+      "phone": "8979067860",
+      "id": 5
+    },
+    {
+      "name": "asdff asdf ",
+      "company": "masia",
+      "ctc": "5",
+      "salary": "40000",
+      "email": "xyz.gmail.com",
+      "phone": "8979067860",
+      "id": 6
+    },
+    {
+      "name": "asdff asdf  asdf",
+      "company": "masia",
+      "ctc": "8",
+      "salary": "40000",
+      "email": "xyz.gmail.com",
+      "phone": "8979067860",
+      "id": 7
+    },
+    {
+      "name": "asdff asdf  asdf asdf",
+      "company": "masia",
+      "ctc": "8",
+      "salary": "40000",
+      "email": "xyz.gmail.com",
+      "phone": "8979067860",
+      "id": 8
+    }
+  ]
+}
